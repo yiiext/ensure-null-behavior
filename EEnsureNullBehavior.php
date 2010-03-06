@@ -1,10 +1,10 @@
 <?php
 /**
-* EnsureNullBehavior
+* EnsureNull behavior
 *
 * Ensures no empty AR property value is written to DB if property's default is `NULL`.
 *
-* @version 1.0
+* @version 1.0.1
 * @author creocoder <creocoder@gmail.com>
 */
 class CEnsureNullBehavior extends CActiveRecordBehavior
