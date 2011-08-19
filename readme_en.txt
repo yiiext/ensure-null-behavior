@@ -9,6 +9,7 @@ Installation and configuration
 
 Copy to your application `extensions` directory.
 Define `behaviors()` method in your ActiveRecord mode as follows:
+
 ~~~
 [php]
 function behaviors() {
